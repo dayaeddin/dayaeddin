@@ -12,9 +12,8 @@
   <img src="https://komarev.com/ghpvc/?username=dayaeddin&label=Profile%20Views&color=0A5C8C&style=flat-square" alt="Profile Views">
 </p>
 
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dayaeddin/dayaeddin/main/assets/banner.png" alt="Dhaya Eddine Messaoudi - AI Researcher" width="100%" />
+  <img src="https://raw.githubusercontent.com/dayaeddin/dayaeddin/main/profile.jpg" alt="Dhaya Eddine Messaoudi" width="200" style="border-radius: 50%;" />
 </p>
 
 <p align="center">
