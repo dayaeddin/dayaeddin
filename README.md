@@ -1,137 +1,172 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=2E9AFE&center=true&vCenter=true&width=500&lines=Hello+I'm+Dhaya+Eddine+Messaoudi;PhD+in+AI+%26+NLP;Neural+Machine+Translation+Researcher;Arabic+NLP+Specialist" alt="Typing SVG" />
-</h1>
+<div align="center">
 
-<h3 align="center">🎓 PhD in Artificial Intelligence & Natural Language Processing | Neural Machine Translation Researcher</h3>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Merriweather&weight=600&size=32&duration=3000&pause=500&color=0A5C8C&center=true&vCenter=true&width=800&lines=Dhaya+Eddine+Messaoudi%2C+Ph.D.;Principal+Researcher+%7C+Artificial+Intelligence;Neural+Machine+Translation+%7C+Arabic+NLP;Former+Research+Affiliate+-+University+of+Malta)
+
+</div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dhayamessaoudi&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/dhayamessaoudi?label=Followers&style=social" alt="GitHub Followers" />
-  <img src="https://img.shields.io/badge/Research-NLP%20%7C%20Machine%20Translation-blue" alt="Research Area" />
+  <a href="https://scholar.google.com/"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=Google-Scholar&logoColor=white" alt="Google Scholar"></a>
+  <a href="https://www.linkedin.com/in/dhaya-eddine-messaoudi-658205232"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/dhayamessaoudi"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" alt="GitHub"></a>
+  <a href="mailto:messaoudi.dhayaeddine@univ-khenchela.dz"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=Gmail&logoColor=white" alt="Email"></a>
+  <img src="https://komarev.com/ghpvc/?username=dhayamessaoudi&label=Profile%20Views&color=0A5C8C&style=flat-square" alt="Profile Views">
 </p>
 
 ---
 
-### 👨‍💻 About Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Scroll.png" alt="Scroll" width="25" height="25" /> Biography
 
-I'm a **PhD graduate in Artificial Intelligence and Natural Language Processing** (Feb 2025) from University Abbas Laghrour, Algeria, with over **6 years of research and professional experience**. My work focuses on **Neural Machine Translation**, **Arabic NLP**, and **low-resource language processing**.
+I am a **Ph.D. graduate in Artificial Intelligence and Natural Language Processing** (February 2025) from the **University of Abbas Laghrour, Algeria**, with a research focus on **Neural Machine Translation**, **Arabic NLP**, and **low-resource language processing**. My doctoral dissertation, *"Conception of a Neural Model for Natural Language Translation,"* introduced novel hybrid attention mechanisms combining character-level CNN-BiLSTM architectures for enhanced Arabic translation quality.
 
-- 🔬 **Research Interests:** Neural Machine Translation | Hybrid Attention Mechanisms | Low-resource Languages | Multimodal Learning | Arabic NLP
-- 🌍 **Location:** Khenchela, Algeria
-- 📧 **Email:** messaoudi.dhayaeddine@univ-khenchela.dz
-- 📱 **Phone:** +213 775169608
+My research program spans **multimodal learning**, **stochastic neural networks**, and **Arabic computational linguistics**, with applications in sentiment analysis, part-of-speech tagging, and cross-lingual translation systems. I maintain active collaborations with international research institutions, including a research internship at the **University of Malta** (2023).
 
----
+<div align="center">
 
-### 🎓 Education
+| Research Focus | Methodological Approaches | Application Domains |
+|:---:|:---:|:---:|
+| Neural Machine Translation | Hybrid Attention Mechanisms | Arabic→English Translation |
+| Arabic Natural Language Processing | Character-Level CNNs | Low-Resource Languages |
+| Multimodal Learning | Neural SDEs | Sentiment Analysis |
+| Deep Learning Architectures | CNN-BiLSTM Networks | Part-of-Speech Tagging |
 
-| Degree | Field | University | Year |
-|--------|-------|------------|------|
-| **PhD** | Artificial Intelligence – NLP | University Abbas Laghrour, Algeria | Feb 2025 |
-| **MSc** | Fundamental & Applied Computer Science | University Abbas Laghrour, Algeria | 2015 |
-| **BSc** | Computer Networks | University Abbas Laghrour, Algeria | 2012 |
-
-**PhD Thesis:** *"Conception of a Neural Model for Natural Language Translation"*
+</div>
 
 ---
 
-### 💼 Experience
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="25" height="25" /> Education
 
-| Period | Position | Organization |
-|--------|----------|--------------|
-| 2019–2022 | Volunteer IT Lecturer | University of Khenchela, Algeria |
-| 2017–2021 | State Engineer in Computer Science | Agricultural Chamber of Khenchela, Algeria |
-| 2016–2017 | Reserve Officer – IT | National People's Army, Algeria |
-
-**Responsibilities:**
-- Teaching programming and computer science fundamentals
-- Assisting students in AI and software development projects
-- Developed and maintained information systems
-- Database management and technical support
-- IT system maintenance and support
+| Degree | Field | Institution | Year | Thesis/Dissertation |
+|:---:|:---:|:---:|:---:|:---|
+| **Ph.D.** | Artificial Intelligence – Natural Language Processing | University Abbas Laghrour, Khenchela, Algeria | Feb 2025 | *"Conception of a Neural Model for Natural Language Translation"* |
+| **M.Sc.** | Fundamental & Applied Computer Science | University Abbas Laghrour, Algeria | 2015 | — |
+| **B.Sc.** | Computer Networks | University Abbas Laghrour, Algeria | 2012 | — |
 
 ---
 
-### 📄 Publications
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Briefcase.png" alt="Briefcase" width="25" height="25" /> Academic & Professional Appointments
 
-> **Messaoudi, D.E.** (2023). *Enhancing Neural Arabic Machine Translation using Character-Level CNN-BiLSTM and Hybrid Attention*. Engineering, Technology & Applied Science Research (ETASR). DOI: [10.48084/etasr.8383](https://doi.org/10.48084/etasr.8383)
+| Period | Position | Affiliation | Responsibilities |
+|:---:|:---:|:---:|:---|
+| 2019–2022 | Volunteer Lecturer in Computer Science | University of Khenchela, Algeria | Undergraduate instruction in programming fundamentals, AI project supervision |
+| 2017–2021 | State Engineer in Computer Science | Agricultural Chamber of Khenchela, Algeria | Information systems architecture, database management, technical infrastructure |
+| 2016–2017 | Reserve IT Officer | National People's Army, Algeria | Enterprise IT systems maintenance and technical support |
+
+### Research Affiliations
+
+| Period | Role | Institution |
+|:---:|:---:|:---:|
+| May–Jun 2023 | Visiting Research Intern | **University of Malta** — AI & NLP Research Group |
 
 ---
 
-### 🎤 Conference Presentations
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="25" height="25" /> Peer-Reviewed Publications
+
+### Journal Articles
+
+> **Messaoudi, D.E.** (2023). *Enhancing Neural Arabic Machine Translation using Character-Level CNN-BiLSTM and Hybrid Attention.* **Engineering, Technology & Applied Science Research (ETASR)**. DOI: [10.48084/etasr.8383](https://doi.org/10.48084/etasr.8383)
+
+### Conference Proceedings
 
 | Year | Title | Conference | Location |
-|------|-------|------------|----------|
-| 2021 | *Intelligent System for POS Tagging Using CNN on Arabic* | ICDSIS 2021 | Hefei, China |
-| 2025 | *Character-Level Arabic Sentiment Classification via Neural SDE-Based Feature Dynamics* | MIDI Conference on Digital Interaction | December 2025 |
-| 2026 | *Hybrid Approach for Enhancing Multimodal Arabic Neural Machine Translation through Visuals* | ICAIAS 2025 | Algeria |
-| 2026 | *Stochastic CNN-SDE Model for Robust Character-Level Arabic POS Tagging* | ICASA 2026 | Djillali Liabes University, Algeria |
+|:---:|:---|:---|:---|
+| 2021 | *Intelligent System for POS Tagging Using CNN on Arabic* | ICDSIS — International Conference on Digital Security and Information Systems | Hefei, China |
+| 2025 | *Character-Level Arabic Sentiment Classification via Neural SDE-Based Feature Dynamics* | MIDI Conference on Digital Interaction | — |
+| 2026 | *Hybrid Approach for Enhancing Multimodal Arabic Neural Machine Translation through Visuals* | ICAIAS — International Conference on Artificial Intelligence and Applications | Algeria |
+| 2026 | *Stochastic CNN-SDE Model for Robust Character-Level Arabic POS Tagging* | ICASA — International Conference on Statistics and Its Applications | Djillali Liabes University, Algeria |
 
 ---
 
-### 🛠️ Technical Skills
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="25" height="25" /> Technical Competencies
 
-**Programming Languages:** Python • Java • C++ • PHP
+<div align="center">
 
-**AI & Deep Learning:** TensorFlow • PyTorch • Keras • Hugging Face
+### Programming Languages
 
-**NLP Tools:** NLTK • SpaCy
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-**Data Science:** NumPy • Pandas • Scikit-learn
+### Deep Learning Frameworks
 
-**Other:** MySQL • OpenCV • UML • MS Office
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+### NLP & Data Science
+
+![NLTK](https://img.shields.io/badge/NLTK-2E4E7E?style=for-the-badge&logo=python&logoColor=white)
+![SpaCy](https://img.shields.io/badge/SpaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### Infrastructure & Tools
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
 
 ---
 
-### 🌐 Languages
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20Places/Globe%20Showing%20Europe-Africa.png" alt="Globe" width="25" height="25" /> Linguistic Proficiency
 
-| Language | Proficiency |
-|----------|-------------|
-| Arabic | Native |
-| French | Fluent |
-| English | Fluent |
+| Language | Proficiency Level | CEFR Reference |
+|:---:|:---:|:---:|
+| **Arabic** | Native | C2 (Mastery) |
+| **French** | Fluent | C1 (Advanced) |
+| **English** | Fluent | C1 (Advanced) |
 
 ---
 
-### 🤝 Connect With Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" /> Research Metrics & Activity
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/dhaya-eddine-messaoudi-658205232">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:messaoudi.dhayaeddine@univ-khenchela.dz">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/dhayamessaoudi">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=dhayamessaoudi&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&ring_color=0A5C8C&title_color=0A5C8C" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhayamessaoudi&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=0A5C8C" alt="Top Languages" width="40%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhayamessaoudi&theme=dark&hide_border=true&background=0D1117&stroke=0A5C8C&ring=0A5C8C&fire=0A5C8C&currStreakLabel=0A5C8C" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laboratory.png" alt="Laboratory" width="25" height="25" /> Current Research Directions
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhayamessaoudi&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhayamessaoudi&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" width="40%" />
-</p>
+My ongoing research investigates the intersection of **stochastic differential equations** and **neural architectures** for robust Arabic NLP in low-resource settings. Key projects include:
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhayamessaoudi&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</p>
+- **Multimodal Neural Machine Translation:** Integrating visual information to enhance Arabic translation quality
+- **Character-Level Arabic Processing:** Neural SDE-based models for POS tagging and sentiment classification
+- **Low-Resource Language Adaptation:** Transfer learning and hybrid attention mechanisms for under-represented Arabic dialects
 
 ---
 
-### 🔬 Research Focus
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" /> Collaboration & Contact
 
-- Neural Machine Translation (Hybrid Attention, Character-Level Models, Low-resource Languages)
-- Arabic NLP (POS Tagging, Sentiment Analysis, Multimodal Translation)
-- Deep Learning (CNN-BiLSTM, Neural SDEs, Multimodal Learning)
+I welcome research collaboration inquiries, particularly in:
+- Neural Machine Translation for low-resource languages
+- Arabic computational linguistics
+- Multimodal learning architectures
+- Stochastic neural networks for NLP
+
+**Office:** University Abbas Laghrour, Khenchela, Algeria  
+**Email:** [messaoudi.dhayaeddine@univ-khenchela.dz](mailto:messaoudi.dhayaeddine@univ-khenchela.dz)  
+**Scholar:** [Google Scholar Profile](https://scholar.google.com/)
 
 ---
 
-<p align="center">
-  <i>🔬 "Advancing Arabic NLP through Neural Innovation"</i>
-  <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=dhayamessaoudi&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+<div align="center">
+
+*"Advancing Arabic Natural Language Processing through Neural Innovation"*
+
+![Footer Divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
+**Last updated:** February 2026  
+**Profile views:** ![Profile Views](https://komarev.com/ghpvc/?username=dhayamessaoudi&color=0A5C8C&style=flat-square)
+
+</div>
