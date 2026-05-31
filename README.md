@@ -15,7 +15,7 @@
 
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2JxY2E0NHFic3gxM2QyeGpibmlidW9jeDk3bGQ5ZW54ZzBqeHhyaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" width="400" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3VtY2JyY25jaTJtb3hubmR2dW0yeWE0MTR4cDRodTZ3M25nOXNmcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l3vRmVv5P01I5ND44/giphy.gif" alt="Brain AI Animation" width="400" />
 </p>
 
 ---
