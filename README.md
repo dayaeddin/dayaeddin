@@ -136,8 +136,9 @@ My research program spans **multimodal learning**, **stochastic neural networks*
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhayamessaoudi&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=0A5C8C" alt="Top Languages" width="40%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhayamessaoudi&theme=dark&hide_border=true&background=0D1117&stroke=0A5C8C&ring=0A5C8C&fire=0A5C8C&currStreakLabel=0A5C8C" alt="GitHub Streak" />
+
+  <p align="center">
+  <img src="gifnlp.gif" alt="Research Animation" width="400" />
 </p>
 
 ---
@@ -168,6 +169,7 @@ I welcome research collaboration inquiries, particularly in:
   <p align="center">
   <img src="Machine Learning Ml GIF by DataCamp.gif" alt="Research Animation" width="400" />
 </p>
+
 
 <div align="center">
 
