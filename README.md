@@ -15,7 +15,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Merriweather&weight=500&size=22&duration=2500&pause=800&color=0A5C8C&center=true&vCenter=true&width=1000&height=60&lines=🔬+Neural+Machine+Translation+%7C+Arabic+NLP+%7C+Low-Resource+Languages;📚+6%2B+Years+Research+%7C+International+Collaborations+%7C+4+Conferences;🎓+Ph.D.+Artificial+Intelligence+%7C+University+of+Malta+Alumnus" alt="Research Typing Animation" />
+  <img src="https://raw.githubusercontent.com/dayaeddin/dayaeddin/main/assets/your-gif.gif" alt="Research Animation" width="400" />
 </p>
 
 ---
