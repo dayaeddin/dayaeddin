@@ -15,7 +15,7 @@
 
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3VtY2JyY25jaTJtb3hubmR2dW0yeWE0MTR4cDRodTZ3M25nOXNmcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l3vRmVv5P01I5ND44/giphy.gif" alt="Brain AI Animation" width="400" />
+  <img src="https://readme-typing-svg.demolab.com?font=Merriweather&weight=500&size=22&duration=2500&pause=800&color=0A5C8C&center=true&vCenter=true&width=1000&height=60&lines=🔬+Neural+Machine+Translation+%7C+Arabic+NLP+%7C+Low-Resource+Languages;📚+6%2B+Years+Research+%7C+International+Collaborations+%7C+4+Conferences;🎓+Ph.D.+Artificial+Intelligence+%7C+University+of+Malta+Alumnus" alt="Research Typing Animation" />
 </p>
 
 ---
