@@ -1,6 +1,6 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Merriweather&weight=600&size=32&duration=3000&pause=500&color=0A5C8C&center=true&vCenter=true&width=800&lines=Dhaya+Eddine+Messaoudi%2C+Ph.D.;Researcher+%7C+Artificial+Intelligence;Neural+Machine+Translation+%7C+Arabic+NLP;Former+Research+Affiliate+-+University+of+Khenchela)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Merriweather&weight=600&size=32&duration=3000&pause=100&color=0A5C8C&center=true&vCenter=true&width=800&lines=Dhaya+Eddine+Messaoudi%2C+Ph.D.;Researcher+%7C+Artificial+Intelligence;Neural+Machine+Translation+%7C+Arabic+NLP;Former+Research+Affiliate+-+University+of+Khenchela)
 
 </div>
 
