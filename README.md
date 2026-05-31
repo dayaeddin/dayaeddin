@@ -165,6 +165,9 @@ I welcome research collaboration inquiries, particularly in:
 **Scholar:** [Google Scholar Profile](https://scholar.google.com/)
 
 ---
+  <p align="center">
+  <img src="Machine Learning Ml GIF by DataCamp.gif" alt="Research Animation" width="400" />
+</p>
 
 <div align="center">
 
