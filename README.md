@@ -15,7 +15,7 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dayaeddin/dayaeddin/main/assets/your-gif.gif" alt="Research Animation" width="400" />
+  <img src="Artificial Intelligence Ai GIF by The Explainer Studio (1).gif" alt="Research Animation" width="400" />
 </p>
 
 ---
