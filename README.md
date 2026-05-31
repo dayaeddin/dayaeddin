@@ -12,6 +12,11 @@
   <img src="https://komarev.com/ghpvc/?username=dayaeddin&label=Profile%20Views&color=0A5C8C&style=flat-square" alt="Profile Views">
 </p>
 
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dayaeddin/dayaeddin/main/assets/banner.png" alt="Dhaya Eddine Messaoudi - AI Researcher" width="100%" />
+</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2000&pause=1000&color=0A5C8C&center=true&vCenter=true&width=800&lines=Ph.D.+in+Artificial+Intelligence;Neural+Machine+Translation+Researcher;Arabic+NLP+Specialist;6%2B+Years+Research+Experience" alt="Research Typing Animation" />
 </p>
