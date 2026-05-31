@@ -15,7 +15,7 @@
 
 
 <p align="center">
-  <img src="Artificial Intelligence Ai GIF by The Explainer Studio (1).gif" alt="Research Animation" width="300" />
+  <img src="Artificial Intelligence Ai GIF by The Explainer Studio (1).gif" alt="Research Animation" width="500" />
 </p>
 
 ---
