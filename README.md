@@ -15,7 +15,7 @@
 
 
 <p align="center">
-  <img src="Artificial Intelligence Ai GIF by The Explainer Studio (1).gif" alt="Research Animation" width="400" />
+  <img src="Artificial Intelligence Ai GIF by The Explainer Studio (1).gif" alt="Research Animation" width="500" />
 </p>
 
 ---
@@ -132,13 +132,13 @@ My research program spans **multimodal learning**, **stochastic neural networks*
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" /> Research Metrics & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhayamessaoudi&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&ring_color=0A5C8C&title_color=0A5C8C" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhayamessaoudi&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=0A5C8C" alt="Top Languages" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dayaeddin&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&ring_color=0A5C8C&title_color=0A5C8C" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayaeddin&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=0A5C8C" alt="Top Languages" width="40%" />
 </p>
 
 
   <p align="center">
-  <img src="gifnlp.gif" alt="Research Animation" width="400" />
+  <img src="gifnlp.gif" alt="Research Animation" width="800" />
 </p>
 
 ---
@@ -167,7 +167,7 @@ I welcome research collaboration inquiries, particularly in:
 
 ---
   <p align="center">
-  <img src="Machine Learning Ml GIF by DataCamp.gif" alt="Research Animation" width="400" />
+  <img src="Machine Learning Ml GIF by DataCamp.gif" alt="Research Animation" width="500" />
 </p>
 
 
