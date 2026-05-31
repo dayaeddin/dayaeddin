@@ -5,11 +5,11 @@
 </div>
 
 <p align="center">
-  <a href="[https://scholar.google.com/](https://scholar.google.com/citations?user=QMrfV9oAAAAJ&hl=fr)"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=Google-Scholar&logoColor=white" alt="Google Scholar"></a>
+  <a href="https://scholar.google.com/citations?user=QMrfV9oAAAAJ&hl=fr"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=Google-Scholar&logoColor=white" alt="Google Scholar"></a>
   <a href="https://www.linkedin.com/in/dhaya-eddine-messaoudi-658205232"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white" alt="LinkedIn"></a>
-  <a href="[https://github.com/dhayamessaoudi](https://github.com/dayaeddin/dayaeddin/"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" alt="GitHub"></a>
+  <a href="https://github.com/dayaeddin"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" alt="GitHub"></a>
   <a href="mailto:messaoudi.dhayaeddine@univ-khenchela.dz"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=Gmail&logoColor=white" alt="Email"></a>
-  <img src="https://komarev.com/ghpvc/?username=dhayamessaoudi&label=Profile%20Views&color=0A5C8C&style=flat-square" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=dayaeddin&label=Profile%20Views&color=0A5C8C&style=flat-square" alt="Profile Views">
 </p>
 
 ---
