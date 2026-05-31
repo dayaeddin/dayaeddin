@@ -12,21 +12,10 @@
   <img src="https://komarev.com/ghpvc/?username=dayaeddin&label=Profile%20Views&color=0A5C8C&style=flat-square" alt="Profile Views">
 </p>
 
-<p align="center">
-  <a href="https://scholar.google.com/citations?user=QMrfV9oAAAAJ&hl=fr"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=Google-Scholar&logoColor=white" alt="Google Scholar"></a>
-  <a href="https://www.linkedin.com/in/dhaya-eddine-messaoudi-658205232"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/dayaeddin"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" alt="GitHub"></a>
-  <a href="mailto:messaoudi.dhayaeddine@univ-khenchela.dz"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=Gmail&logoColor=white" alt="Email"></a>
-  <img src="https://komarev.com/ghpvc/?username=dayaeddin&label=Profile%20Views&color=0A5C8C&style=flat-square" alt="Profile Views">
-</p>
 
-<!-- RESEARCH BANNER -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Merriweather&weight=600&size=28&duration=3000&pause=500&color=0A5C8C&center=true&vCenter=true&width=900&lines=Dhaya+Eddine+Messaoudi%2C+Ph.D.;Artificial+Intelligence+%26+NLP+Researcher;Neural+Machine+Translation;Low-Resource+Languages;Arabic+Computational+Linguistics" alt="Research Banner" />
-</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2000&pause=1000&color=0A5C8C&center=true&vCenter=true&width=800&lines=Ph.D.+in+Artificial+Intelligence;Neural+Machine+Translation+Researcher;Arabic+NLP+Specialist;6%2B+Years+Research+Experience" alt="Research Typing Animation" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2JxY2E0NHFic3gxM2QyeGpibmlidW9jeDk3bGQ5ZW54ZzBqeHhyaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" width="800" />
 </p>
 
 ---
